@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Sihe Chen
+## Ph.D. Candidate in Planetary Sciences, California Institute of Technology
+### Educational history
+I have studied in multiple countries after I finished my high school in China. I received Bachelor of Engineering in Mechanical Engineering with a second major in Physics in 2020 from National University of Singapore. I also attended exchange programs to Hanyang University and University of California, Berkeley. Now I am a Ph.D. candidate in Planetary Sciences in Department of Geological and Planetary Sciences, California Institute of Technology, with expected graduation in 2026. 
 
-You can use the [editor on GitHub](https://github.com/cshsgy/cshsgy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Ongoing Research Areas
+I am interested in fluid dynamics problems. I am currently working on geysers on Enceladus and building models to explain their diurnal variabilities, which need to both consider the dynamics of the ocean, the compressible gas dynamics, and even the viscoelasticity of the ice.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am also interested in aerosol problems, either on the earth or other planets. I am working on photochemistry models for Titan and Pluto with the JPL photochemistry model KINETICS and the microphysics model, Community Aerosol and Radiation Model for Atmospheres (CARMA), to study the coagulation of haze particles. GCM aerosol data are also used to analyze the occultation lightcurves and we have shown that the aerosol could have played an important role in what we observe.
 
-### Markdown
+I have also taken some data-driven approaches to improve the aerosol characterization. A new method is devised to analyze the soundings from Orbital Carbon Observatory-2 (OCO-2) and improve the retrieval quality over critical albedo areas.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications
+Chen, S., Zeng, Z., Natraj, V., and Yung, Y. (2022). Machine learning-based aerosol characterization using OCO2 O2 A-band observations. Journal of Quantitative Spectroscopy and Radiative Transfer. DOI: https://doi.org/10.1016/j.jqsrt.2021.108049
 
-```markdown
-Syntax highlighted code block
+Chen, S., Young, E., F., Young, A., L, et al. (2021). Global Climate Model Occultation Lightcurves Tested by August 2018 Ground-Based Stellar Occultation. Icarus. DOI: https://doi.org/10.1016/j.icarus.2020.113976.
 
-# Header 1
-## Header 2
-### Header 3
+Zeng, Z., Chen, S., Natraj, V., Le, T., Xu, F., Merrelli, A., Crisp, D., Sander, S., P., and Yung, Y., L. (2019). Constraining the vertical distribution of coastal dust aerosol using OCO-2 O2 A-band measurements. Remote Sensing of Environment.
 
-- Bulleted
-- List
+Chen, S., Adams, D., Willacy, K., Fan, S., and Yung, Y. Investigating Photochemical Hazes on Pluto with a Photochemical-Microphysical Model. Oral presentation in DPS 2021.
 
-1. Numbered
-2. List
+Chen, S., Young, E., F., Young, L., A., Bertrand, T., Forget, F. and Yung, Y. Comparing Pluto Global Climate Model Occultation Lightcurves with Observations. Oral presentation in DPS 2020.
 
-**Bold** and _Italic_ and `Code` text
+Chen, S., Zeng, Z., Natraj, V., Pongetti, T., Sander, S., and Yung, Y. Observing greenhouse gases and aerosols in Los Angeles using CLARS-FTS and OCO-3. Poster in AGU Fall Meeting 2020.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Links
+LinkedIn Profile: https://www.linkedin.com/in/sihe-chen-7a5953107
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cshsgy/cshsgy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Caltech Page: https://www.gps.caltech.edu/people/sihe-chen?back_url=%2Fpeople%3Fcat_one%3Dall%26cat_two%3DGeophysics%26p%3D2
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact me at...
+sihechen[At]caltech[Dot]edu
