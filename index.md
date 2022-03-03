@@ -11,9 +11,9 @@ I am also interested in aerosol problems, either on the earth or other planets. 
 I have also taken some data-driven approaches to improve the aerosol characterization. A new method is devised to analyze the soundings from Orbital Carbon Observatory-2 (OCO-2) and improve the retrieval quality over critical albedo areas.
 
 ### Publications
-Chen, S., Zeng, Z., Natraj, V., and Yung, Y. (2022). Machine learning-based aerosol characterization using OCO2 O2 A-band observations. Journal of Quantitative Spectroscopy and Radiative Transfer. DOI: https://doi.org/10.1016/j.jqsrt.2021.108049
+Chen, S., Zeng, Z., Natraj, V., and Yung, Y. (2022). Machine learning-based aerosol characterization using OCO2 O2 A-band observations. Journal of Quantitative Spectroscopy and Radiative Transfer. DOI: [https://doi.org/10.1016/j.jqsrt.2021.108049]
 
-Chen, S., Young, E., F., Young, A., L, et al. (2021). Global Climate Model Occultation Lightcurves Tested by August 2018 Ground-Based Stellar Occultation. Icarus. DOI: https://doi.org/10.1016/j.icarus.2020.113976.
+Chen, S., Young, E., F., Young, A., L, et al. (2021). Global Climate Model Occultation Lightcurves Tested by August 2018 Ground-Based Stellar Occultation. Icarus. DOI: [https://doi.org/10.1016/j.icarus.2020.113976].
 
 Zeng, Z., Chen, S., Natraj, V., Le, T., Xu, F., Merrelli, A., Crisp, D., Sander, S., P., and Yung, Y., L. (2019). Constraining the vertical distribution of coastal dust aerosol using OCO-2 O2 A-band measurements. Remote Sensing of Environment.
 
@@ -26,9 +26,9 @@ Chen, S., Zeng, Z., Natraj, V., Pongetti, T., Sander, S., and Yung, Y. Observing
 
 
 ### Links
-LinkedIn Profile: https://www.linkedin.com/in/sihe-chen-7a5953107
+LinkedIn Profile: [https://www.linkedin.com/in/sihe-chen-7a5953107]
 
-Caltech Page: https://www.gps.caltech.edu/people/sihe-chen?back_url=%2Fpeople%3Fcat_one%3Dall%26cat_two%3DGeophysics%26p%3D2
+Caltech Page: [https://www.gps.caltech.edu/people/sihe-chen?back_url=%2Fpeople%3Fcat_one%3Dall%26cat_two%3DGeophysics%26p%3D2]
 
 ### Contact me at...
 sihechen[At]caltech[Dot]edu
