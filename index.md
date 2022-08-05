@@ -30,9 +30,8 @@ Chen, S., Zeng, Z., Natraj, V., Pongetti, T., Sander, S., and Yung, Y. Observing
 
 
 ### Links
-LinkedIn Profile: [https://www.linkedin.com/in/sihe-chen-7a5953107]
-
-Caltech Page: [https://www.gps.caltech.edu/people/sihe-chen?back_url=%2Fpeople%3Fcat_one%3Dall%26cat_two%3DGeophysics%26p%3D2]
+<a href="https://www.linkedin.com/in/sihe-chen-7a5953107"> LinkedIn Profile </a>
+<a href="https://www.gps.caltech.edu/people/sihe-chen?back_url=%2Fpeople%3Fcat_one%3Dall%26cat_two%3DGeophysics%26p%3D2"> Caltech Page </a>
 
 ### Other Stuff...
 I have got some hobbies that are not publishable. I like to travel, hike, and take photos. Here are some of them:
