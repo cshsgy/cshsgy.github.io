@@ -1,5 +1,8 @@
 # Sihe Chen
 ## Ph.D. Candidate in Planetary Sciences, California Institute of Technology. (Expected graduation 2026)
+
+![My Photo](https://github.com/cshsgy/cshsgy.github.io/blob/395988d7ca07f15c67263e5f3fe3f14762b6e41b/DSC_0872.jpg)
+
 ### Educational history
 I have studied in multiple countries after I finished my high school in China. I received Bachelor of Engineering in Mechanical Engineering with a second major in Physics in 2020 from National University of Singapore. I also attended exchange programs to Hanyang University and University of California, Berkeley. Now I am a Ph.D. candidate in Planetary Sciences in Department of Geological and Planetary Sciences, California Institute of Technology, with expected graduation in 2026. 
 
@@ -30,7 +33,10 @@ Chen, S., Zeng, Z., Natraj, V., Pongetti, T., Sander, S., and Yung, Y. Observing
 
 
 ### Links
+
 <a href="https://www.linkedin.com/in/sihe-chen-7a5953107"> LinkedIn Profile </a>
+
+
 <a href="https://www.gps.caltech.edu/people/sihe-chen?back_url=%2Fpeople%3Fcat_one%3Dall%26cat_two%3DGeophysics%26p%3D2"> Caltech Page </a>
 
 ### Other Stuff...
