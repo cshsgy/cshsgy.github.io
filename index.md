@@ -34,5 +34,9 @@ LinkedIn Profile: [https://www.linkedin.com/in/sihe-chen-7a5953107]
 
 Caltech Page: [https://www.gps.caltech.edu/people/sihe-chen?back_url=%2Fpeople%3Fcat_one%3Dall%26cat_two%3DGeophysics%26p%3D2]
 
+### Other Stuff...
+I have got some hobbies that are not publishable. I like to travel, hike, and take photos. Here are some of them:
+<a href="https://cshsgy.github.io/personal-collection-gallery/"> Link to the gallery </a>
+
 ### Contact me at...
 sihechen[At]caltech[Dot]edu
