@@ -18,8 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a 4-th year Ph.D. student in planetary science option in California Institute of Technology, co-advise by [Prof. Andrew P. Ingersoll](https://en.wikipedia.org/wiki/Andrew_Ingersoll), [Prof. Yuk-Ling Yung](https://en.wikipedia.org/wiki/Yuk_L._Yung), and externally by [Dr. Cheng Li](https://li.engin.umich.edu/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interest mosyly lie in planetary atmospheres. My thesis work is related to the polar vortex dynamics of the giant planets. Meanwhile, I am interested in the photochemistry of a reducing atmosphere (Pluto and Titan) and the plume of Enceladus. I also have a project using machine learning methods to improve satellite soundings, particularly Orbiting Carbon Observatory (OCO).
